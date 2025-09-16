@@ -1,0 +1,14 @@
+C:\Users\Diseño 2\Desktop\CSharp_luis\n_empleados\obj\Debug\net8.0\n_empleados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diseño 2\Desktop\CSharp_luis\n_empleados\obj\Debug\net8.0\n_empleados.AssemblyInfoInputs.cache
+C:\Users\Diseño 2\Desktop\CSharp_luis\n_empleados\obj\Debug\net8.0\n_empleados.AssemblyInfo.cs
+C:\Users\Diseño 2\Desktop\CSharp_luis\n_empleados\obj\Debug\net8.0\n_empleados.csproj.CoreCompileInputs.cache
+C:\Users\Diseño 2\Desktop\CSharp_luis\n_empleados\bin\Debug\net8.0\n_empleados.exe
+C:\Users\Diseño 2\Desktop\CSharp_luis\n_empleados\bin\Debug\net8.0\n_empleados.deps.json
+C:\Users\Diseño 2\Desktop\CSharp_luis\n_empleados\bin\Debug\net8.0\n_empleados.runtimeconfig.json
+C:\Users\Diseño 2\Desktop\CSharp_luis\n_empleados\bin\Debug\net8.0\n_empleados.dll
+C:\Users\Diseño 2\Desktop\CSharp_luis\n_empleados\bin\Debug\net8.0\n_empleados.pdb
+C:\Users\Diseño 2\Desktop\CSharp_luis\n_empleados\obj\Debug\net8.0\n_empleados.dll
+C:\Users\Diseño 2\Desktop\CSharp_luis\n_empleados\obj\Debug\net8.0\refint\n_empleados.dll
+C:\Users\Diseño 2\Desktop\CSharp_luis\n_empleados\obj\Debug\net8.0\n_empleados.pdb
+C:\Users\Diseño 2\Desktop\CSharp_luis\n_empleados\obj\Debug\net8.0\n_empleados.genruntimeconfig.cache
+C:\Users\Diseño 2\Desktop\CSharp_luis\n_empleados\obj\Debug\net8.0\ref\n_empleados.dll
